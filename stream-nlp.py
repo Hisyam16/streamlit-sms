@@ -28,4 +28,4 @@ if st.button('hasil deteksi') :
 
 st.success(fraud_detection)
 
-clean_teks = st.text_input('TUGAS SKRIPSI DWI MUHAMAD HISYAM')
+st.text('TUGAS SKRIPSI DWI MUHAMAD HISYAM')
