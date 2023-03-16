@@ -27,3 +27,5 @@ if st.button('hasil deteksi') :
         fraud_detection ='sms promo'
 
 st.success(fraud_detection)
+
+clean_teks = st.text_input('TUGAS SKRIPSI DWI MUHAMAD HISYAM')
